@@ -1,0 +1,159 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* border: 0; */
+}
+
+ul{
+    list-style-type: none;
+    word-spacing: 12px;
+}
+li{
+    display: inline-block;
+   
+}
+.you{
+    width: 300;
+    margin: 50px;
+    padding-left: 300px;
+        position: relative; bottom: 106px;
+    }
+.moni{
+    padding-left: 100px;
+    width: 505px;
+    position: relative;bottom: 84px;
+}
+.photo{
+    padding: 30px;
+}
+.rap{
+    padding: 100px;
+    font-size: 20px;
+    position: relative;bottom: 85px;
+}
+.sin{
+    padding: 100px;
+    position: relative; bottom: 280px;
+    font-style: normal;
+}
+.car{
+    padding: 100px;
+    position: relative;bottom: 470px;
+    width: 330px;
+}
+.ran{
+    padding: 10px;
+    left: 100px;
+    background-color: blue;
+    color: cornsilk;
+    border-radius: 20px;
+    position: relative;bottom: 900px;
+
+}
+.pix{
+   max-width: 220px;
+    height: auto;
+    padding-left: 680px;
+   position: relative;bottom: 860px;
+     border: 70xp solid #ddd;
+}
+.gang{
+    padding-left: 600px;
+    position: relative;bottom: 1200px;
+}
+.pho{
+    position: relative;bottom: 700px;
+    padding-left: 220px;
+    
+}
+.emp{
+    padding-left: 750px;
+    position: relative;bottom: 1100px;
+    width: 350px;
+}
+.sam{
+    padding: 100px;
+    width: 300px;
+    height: 300px;
+    position: relative;bottom: 1050px;
+    left: 49px;
+    border-radius: 40px;
+}
+.boy{
+    background-color: blue;
+    border-radius: 100px;
+    left: 770px;
+    width: 100px;
+    position: relative;bottom: 1085px;
+}
+.mam{
+    left: 620px;
+    position: relative;bottom: 1000px;
+}
+.saa{
+    padding: 40px;
+    width: 300px;
+    height: 300px;
+    position: relative;bottom: 1110px;
+    left: 2px;
+    border-radius: 10px;
+}
+.sab{
+    padding: 100px;
+    width: 300px;
+    height: 300px;
+    position: relative;bottom: 1555px;
+    left: 800px;
+    border-radius: 40px;
+}
+.cmm{
+    left: 600px;
+    position: relative;bottom: 1550px;
+}
+.ceo{
+    background-color: rgba(245, 243, 243, 0.979);
+    left: 400px;
+    width: 580px;
+    height: 580px;
+    position: relative;bottom: 1500px;
+    border-radius: 40px;
+    text-align: center;
+    font-size: 25px;
+    
+    margin-bottom: 10px;
+}
+.sir{
+   position: relative;top: 50px;
+}
+.candy{
+    width: 360px;
+    padding: 15px;
+   position: relative;top: 55px;
+   border-radius: 15px;
+   margin: 20px;
+}
+.jj{
+    margin: 100px;
+    width: 400px;
+}
+.blue{
+    background-color: blue;
+    width: 200px;
+    border-radius: 100px;
+    text-align: center;
+    position: relative; top: 32px;
+    margin: 20px;
+}
+.mrr{
+    position: relative;top: 500px;
+}
+.papa{
+    display: flex;
+    flex-direction: column;
+}
+.xom{
+    background-color: blue;
+    height: 200px;
+    width: 2000px;
+    position: relative;bottom:1300px;
+}
