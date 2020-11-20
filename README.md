@@ -19,7 +19,7 @@ https://https://github.com/auwalisa36/project.git
 
 
 # Live Demo
-This is alive demo ( https://raw.githack.com/auwalisa36/abercrombie.com/main/index.html )
+This is alive demo (https://raw.githack.com/auwalisa36/project/main/project.html )
 
 # Author
 Auwal Isa
